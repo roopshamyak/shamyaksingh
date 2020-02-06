@@ -1,0 +1,4 @@
+program x;
+begin
+end.
+
